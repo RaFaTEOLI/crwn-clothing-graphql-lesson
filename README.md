@@ -1,0 +1,1 @@
+The final version of the crwn clothing app after converting it to leverage apollo-client for handling local state. \*One thing to note is that in checkout-item.container we use something new, the compose function and the graphql function we get from react-apollo to handle multiple mutations!
